@@ -10,7 +10,7 @@
 * [Social Acceptance of Residential Photovoltaics]()
 * [Flexible Electricity Tariffs and Consumer Behavior]()
 * [Electricity Demand Forecasting]()
-   -[Place holder]()
+   - [Place holder]()
 * [AI-Enabled Circular Analog Circuit Design]()
 * [Interactive 3D Visualization for Energy Planning]()
 * [Federated Learning for Privacy-Preserving Load Forecasting]()
