@@ -3,8 +3,8 @@
 
 ## Research Project in Smart Grids
 * [Ethical Aspects of Synthetic Data](https://github.com/smartgrids-aau/Ethical-Aspects-of-Synthetic-Data)
-* [Privacy-Preserving Synthetic Data Generation]()
-* [Gamification for Energy Conservation]()
+* [Privacy-Preserving Synthetic Data Generation](https://github.com/smartgrids-aau/Privacy-Preserving-Synthetic-Data-Generation)
+* [Gamification for Energy Conservation](https://github.com/smartgrids-aau/Gamification-for-Energy-Conservation)
 * [Language Models for Dynamic Hint-Giving in Video Games]()
 * [Quantum Key Distribution Demonstrator]()
 * [Social Acceptance of Residential Photovoltaics]()
@@ -19,6 +19,19 @@
 * [Multiplication-Free Neural Networks for Resource-Constrained Systems]()
 * [SISMO for Energy Applications]()
 * [Environment Mapping with a Swarm of Mechalino Robots]()
+
+## Thesis Projects
+* [unoffLandz Server](https://github.com/smartgrids-aau/unoffLandz-server)
+* [Interpretable-NILM](https://github.com/smartgrids-aau/Interpretable-NILM)
+
+
+## Templets
+* [Thesis Templet](https://github.com/smartgrids-aau/thesis-template)
+* 
+
+## Tools
+* [pdfsat](https://github.com/smartgrids-aau/pdfsat)
+
 
 
 <!--
