@@ -1,8 +1,8 @@
-## Hi there 👋
+Smart Grids AAU
 
 
 ##Research Project in Smart Grids
-01.  Ethical Aspects of Synthetic Data
+01.  [Ethical Aspects of Synthetic Data]()
 02.  Privacy-Preserving Synthetic Data Generation
 03.  Gamification for Energy Conservation
 04.  Language Models for Dynamic Hint-Giving in Video Games
