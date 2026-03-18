@@ -10,12 +10,12 @@
 * [Social Acceptance of Residential Photovoltaics](https://github.com/smartgrids-aau/Social-Acceptance-of-Residential-Photovoltaics)
 * [Flexible Electricity Tariffs and Consumer Behavior](https://github.com/smartgrids-aau/Flexible-Electricity-Tariffs-and-Consumer-Behavior)
 <!--* [Electricity Demand Forecasting]()
-   - [Place holder]()
-* [AI-Enabled Circular Analog Circuit Design]()
-* [Interactive 3D Visualization for Energy Planning]()
-* [Federated Learning for Privacy-Preserving Load Forecasting]()
-* [GANs for Synthetic Energy Consumption Profiles]()
-* [Optimizing EV Charging via Combinatorial Optimization and RL]()
+   - [Place holder]() -->
+* [AI-Enabled Circular Analog Circuit Design](https://github.com/smartgrids-aau/AI-Enabled-Circular-Analog-Circuit-Design)
+* [Interactive 3D Visualization for Energy Planning](https://github.com/smartgrids-aau/Interactive-3D-Visualization-for-Energy-Planning)
+* [Federated Learning for Privacy-Preserving Load Forecasting](https://github.com/smartgrids-aau/Federated-Learning-for-Privacy-Preserving-Load-Forecasting)
+* [GANs for Synthetic Energy Consumption Profiles](https://github.com/smartgrids-aau/GANs-for-Synthetic-Energy-Consumption-Profiles)
+<!--* [Optimizing EV Charging via Combinatorial Optimization and RL]()
 * [Multiplication-Free Neural Networks for Resource-Constrained Systems]()
 * [SISMO for Energy Applications]()
 * [Environment Mapping with a Swarm of Mechalino Robots]() -->
