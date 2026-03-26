@@ -9,7 +9,7 @@
 * [Quantum Key Distribution Demonstrator](https://github.com/smartgrids-aau/Quantum-Key-Distribution-Demonstrator)
 * [Social Acceptance of Residential Photovoltaics](https://github.com/smartgrids-aau/Social-Acceptance-of-Residential-Photovoltaics)
 * [Flexible Electricity Tariffs and Consumer Behavior](https://github.com/smartgrids-aau/Flexible-Electricity-Tariffs-and-Consumer-Behavior)
-* [Electricity Demand Forecasting]()
+* Electricity Demand Forecasting
     - [Anomaly Detection and Data Quality Correction for Transformer Load Time Series](https://github.com/smartgrids-aau/Anomaly-Detection-and-Data-Quality-Correction-for-Transformer-Load-Time-Series)
     - [Multivariate Load Forecasting with Exogenous Weather Variables for Transformer Stations](https://github.com/smartgrids-aau/Multivariate-Load-Forecasting-with-Exogenous-Weather-Variables-for-Transformer-Stations)
 * [AI-Enabled Circular Analog Circuit Design](https://github.com/smartgrids-aau/AI-Enabled-Circular-Analog-Circuit-Design)
