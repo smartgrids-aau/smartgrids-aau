@@ -25,8 +25,8 @@
 * [Interpretable-NILM](https://github.com/smartgrids-aau/Interpretable-NILM)
 
 
-## Templets
-* [Thesis Templet](https://github.com/smartgrids-aau/thesis-template)
+## Templates
+* [Thesis Template](https://github.com/smartgrids-aau/thesis-template)
 
 
 ## Tools
