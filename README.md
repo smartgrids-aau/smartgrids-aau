@@ -24,11 +24,13 @@
 * [Frevo](https://github.com/smartgrids-aau/Frevo) — Open-source Java framework for evolutionary design and optimization, with componentwise separation of problem definition, solution representation, and optimization method
 * [LabGenAlg](https://github.com/smartgrids-aau/LabGenAlg) — Labyrinth-generating algorithms
 
-## Thesis Projects
+## Finished Thesis Projects
 
 * [unoffLandz Server](https://github.com/smartgrids-aau/unoffLandz-server)
 * [Interpretable-NILM](https://github.com/smartgrids-aau/Interpretable-NILM)
 * [Environment Mapping with a Swarm of Mechalino Robots](https://github.com/smartgrids-aau/Environment-Mapping-with-a-Swarm-of-Mechalino-Robots)
+* [Energy Self-Sufficient Greenhouse](https://github.com/smartgrids-aau/energy-self-sufficient-greenhouse) — Simulation models for PV output and electrical energy consumption for an energy self-sufficient greenhouse
+* [GreenCodesPython](https://github.com/smartgrids-aau/GreenCodesPython) — Python scripts for modeling photovoltaic systems, based on the methodologies from *Modeling of Photovoltaic Systems Using MATLAB: Simplified Green Codes*
 
 ## Templates
 
@@ -38,6 +40,7 @@
 
 * [pdfsat](https://github.com/smartgrids-aau/pdfsat)
 * [PunyInformDE](https://github.com/smartgrids-aau/punyinformde) — German localisation of PunyInform, the lightweight Inform 6 interactive fiction library
+* [Greenprocure Austria Dataset](https://github.com/smartgrids-aau/Greenprocure-Austria-Dataset) — Dataset and analysis tools for studying municipal procurement patterns, carbon footprints, and cost optimization in Austrian public purchasing
 
 ## Ongoing Research Project in Smart Grids
 
@@ -58,6 +61,4 @@
 * [Multiplication-Free Neural Networks for Resource-Constrained Systems](https://github.com/smartgrids-aau/Multiplication-Free-Neural-Networks-for-Resource-Constrained-Systems)
 * [SISMO for Energy Applications](https://github.com/smartgrids-aau/SISMO-for-Energy-Applications)
 * [Environment Mapping with a Swarm of Mechalino Robots](https://github.com/smartgrids-aau/Environment-Mapping-with-a-Swarm-of-Mechalino-Robots)
-* [Energy Self-Sufficient Greenhouse](https://github.com/smartgrids-aau/energy-self-sufficient-greenhouse) — Simulation models for PV output and electrical energy consumption for an energy self-sufficient greenhouse
-* [Greenprocure Austria Dataset](https://github.com/smartgrids-aau/Greenprocure-Austria-Dataset) — Dataset and analysis tools for studying municipal procurement patterns, carbon footprints, and cost optimization in Austrian public purchasing
-* [GreenCodesPython](https://github.com/smartgrids-aau/GreenCodesPython) — Python scripts for modeling photovoltaic systems, based on the methodologies from *Modeling of Photovoltaic Systems Using MATLAB: Simplified Green Codes*
+
